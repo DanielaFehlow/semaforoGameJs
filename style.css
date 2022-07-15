@@ -1,0 +1,51 @@
+#red {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  border: red solid 2px;
+  background-color: red;
+}
+
+#orange {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  border: orange solid 2px;
+  background-color: orange;
+}
+
+#green {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  border: green solid 2px;
+  background-color: green;
+}
+
+.contour {
+  width: 210px;
+  height: 620px;
+  background-color: black;
+  margin-left: 40%;
+  margin-top: 5rem;
+}
+
+.opacity {
+  opacity: 0.4;
+}
+
+button {
+  width: 100px;
+  border-radius: 8px;
+  border: none;
+  color: black;
+  height: 25px;
+  font-family: sans-serif;
+  font-size: large;
+  cursor: pointer;
+}
+
+#buttons {
+  margin-left: 38%;
+  margin-top: 2rem;
+}
